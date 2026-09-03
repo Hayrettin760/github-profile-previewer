@@ -28,6 +28,8 @@ This application is a stylish web interface where users can enter any GitHub use
 * **JavaScript (ES6+):** Fetch API, dynamic DOM manipulation, and language dictionary management.
 * **Font Awesome & FlagCDN:** Icons and crisp, device-independent flag images.
 
+* **🚀 **Live Demo:** [hayrettin760.github.io/github-profile-previewer](https://hayrettin760.github.io/github-profile-previewer/)**
+
 ## 🚀 Installation & Usage
 1. Clone or download this repository to your computer:
    ```bash
