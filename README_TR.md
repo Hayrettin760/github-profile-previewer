@@ -1,6 +1,3 @@
-### 2. `README_TR.md` (Türkçe)
-
-```markdown
 # 🚀 GitHub Profil Önizleyici
 
 Modern, koyu mod (dark mode) arayüzüne sahip, çok dilli dinamik GitHub profil önizleme uygulaması.
