@@ -28,6 +28,8 @@ Bu uygulama, kullanıcıların herhangi bir GitHub kullanıcı adını girerek i
 * **JavaScript (ES6+):** Fetch API, dinamik DOM manipülasyonu ve dil nesnesi yönetimi.
 * **Font Awesome & FlagCDN:** İkonlar ve cihaz bağımsız net bayrak görselleri.
 
+* 🚀 **Canlı Sunum:** [hayrettin760.github.io/github-profile-previewer](https://hayrettin760.github.io/github-profile-previewer/)
+
 ## 🚀 Kurulum ve Çalıştırma
 1. Bu depoyu bilgisayarınıza indirin veya klonlayın:
    ```bash
