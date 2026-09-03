@@ -24,6 +24,6 @@ Bu proje, kullanıcıların herhangi bir GitHub kullanıcı adını girerek ilgi
 * **Font Awesome & FlagCDN:** İkonlar ve cihaz bağımsız net bayrak görselleri.
 
 ## 🚀 Kurulum ve Çalıştırma
-1. Bu depoyu klonlayın veya ZIP olarak indirin:
+1. Bu depoyu bilgisayarınıza indirin veya klonlayın:
    ```bash
-   git clone [https://github.com/KULLANICI_ADIN/github-profile-previewer.git](https://github.com/KULLANICI_ADIN/github-profile-previewer.git)
+   git clone [https://github.com/Hayrettin760/github-profile-previewer.git](https://github.com/Hayrettin760/github-profile-previewer.git)
